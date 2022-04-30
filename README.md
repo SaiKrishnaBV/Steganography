@@ -10,7 +10,7 @@ change the value to EVEN number if corresponding bit is 0<br/>
 
 Use the remaining bit (9th one) to inform the end of message.<br/>
 If the 9th bit is high it indicates end of message<br/>
-If the th bit is low it indicates that the complete message has not yet been decrypted.</br>
+If the 9th bit is low it indicates that the complete message has not yet been decrypted.</br>
 
 
 Run the EncoderUI.py file,<br/>
